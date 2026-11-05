@@ -1,0 +1,17 @@
+{
+  "name": "com.ozhogi.ozhogitools",
+  "version": "1.0.0",
+  "displayName": "Ozhogi Tools",
+  "description": "",
+  "unity": "6000.6",
+  "unityRelease": "7f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [],
+  "author": {
+    "name": "Ozhogi",
+    "url": "https://www.unity3d.com",
+    "email": "Ozhogi@hotmail.com"
+  }
+}
